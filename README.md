@@ -31,7 +31,7 @@ Once you have completed these steps, the processing parameters that you may wish
 
 **Once you have completed _ALL_ of the above pre-processing steps you are ready to run the shell script!**
 
-Output processing logs will be found in the `asp_logs/` subdirectory (e.g., `Pocitos/asp_logs/`) and all DEM results will be found in the `asp_out/` subdirectory (e.g., `Pocitos/asp_out/`).
+Output processing logs will be found in the `asp_logs/` subdirectory (e.g., `Pocitos/asp_logs/`) and all DEM results will be found in the `asp_out/` subdirectory (e.g., `Pocitos/asp_out/`). Both of these subdirectories are generated automatically by the shell script.
 
 
 # SPOT6 A scene prior to and following map-projection
