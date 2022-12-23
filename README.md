@@ -2,14 +2,13 @@
 
 This repository is associated with:
 
-  _Purinton, B.; Mueting, A.; Bookhagen, B. Image Texture as Quality Indicator for Optical DEM Generation: Geomorphic Applications in the Arid Central Andes. Remote Sensing. 2023._ [10.3390/rs15010085](https://doi.org/10.3390/rs15010085){:target="_blank"}.
+_Purinton, B.; Mueting, A.; Bookhagen, B. Image Texture as Quality Indicator for Optical DEM Generation: Geomorphic Applications in the Arid Central Andes. Remote Sensing. 2023. [10.3390/rs15010085](https://doi.org/10.3390/rs15010085)_.
 
 Please cite that paper:
 
-
 ```bibtex
 @Article{purinton2023spot,
-	author = {\textbf{Purinton}, \textbf{B.}, Mueting, A. and Bookhagen, B.},
+	author = {Purinton, B., Mueting, A. and Bookhagen, B.},
 	title = {{Image Texture as Quality Indicator for Optical DEM Generation: Geomorphic Applications in the Arid Central Andes}},
 	journal = {Remote Sensing},
 	volume = {15},
